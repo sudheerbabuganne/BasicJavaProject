@@ -6,6 +6,8 @@ public class Main {
 	{
 		// TODO Auto-generated method stub
 		
+		//This line is added for testing purpose
+		
 		Childclass obj1=new Childclass();
 		
 		System.out.println("main method is calling");
